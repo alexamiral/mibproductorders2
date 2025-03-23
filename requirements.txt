@@ -1,5 +1,3 @@
-pandas
-streamlit
-os
-numpy
-datetime
+numpy==1.24.4
+pandas==2.0.3
+streamlit==1.40.1
